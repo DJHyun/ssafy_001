@@ -64,7 +64,7 @@ def cal():
 | :-----------: | :------: | :---------: | :------: |
 |               |          |             |          |
 
-
+- 이 부분은 git이 얼마나 수정한 부분을 잘 파악하는지 알아내기 위한 부분입니다.
 
 ```json
 {'coord': {'lon': 126.98, 'lat': 37.57}, 'weather': [{'id': 721, 'main': 'Haze', 'description': '연무', 'icon': '50d'}], 'base': 'stations', 'main': {'temp': 279.11, 'pressure': 1018, 'humidity': 30, 'temp_min': 278.15, 'temp_max': 279.95}, 'visibility': 10000, 'wind': {'speed': 3.1, 'deg': 280}, 'clouds': {'all': 0}, 'dt': 1545026400, 'sys': {'type': 1, 'id': 8105, 'message': 0.0056, 'country': 'KR', 'sunrise': 1545000046, 'sunset': 1545034526}, 'id': 1835848, 'name': 'Seoul', 'cod': 200}
